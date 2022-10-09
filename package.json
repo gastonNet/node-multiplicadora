@@ -1,0 +1,16 @@
+{
+  "name": "03-fundamentos-node",
+  "version": "1.0.0",
+  "description": "Simple aplicacion de tablas de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gaston",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.6.0"
+  },
+  "devDependencies": {}
+}
